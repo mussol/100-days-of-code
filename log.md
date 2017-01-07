@@ -22,4 +22,4 @@ Happy with the work accomplished today with my portfolio. Published first draft 
 
 ### Day 6, January 7, 2017
 
-Continued working on my portfolio. Not such a good day though: getting stuck on the details of the functionalities of CSS/Bootstrap (alignments, paddings/margins, bugs on font-awesome icons,... basics?)
+Continued working on my portfolio. Not such a good day though: getting stuck on the details of the functionalities of CSS/Bootstrap (alignments, paddings/margins, bugs on font-awesome icons,... basics?). There's a difference between what I created and see on codepen and what shows in github pages, need to find why.
