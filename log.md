@@ -28,3 +28,6 @@ Continued working on my portfolio. Not such a good day though: getting stuck on 
 
 Read a lot today. Articles, tutorials... found a series of exercises to practice CSS selectors, which was mostly new to me, interactive and entertaining, helped a lot. Should find more ressources for other features to practice. Found some possibilities while browsing and will most probably look into them tomorrow.
 
+### Day 8: January 9, 2017
+
+Did some learning today from MDN (Mozilla Developer Network) tutorials on HTML and CSS. I feel my basis is finally more solid so I'm more confident. Have made some changes to my portfolio page while going through all features and updated the github code. Tomorrow will finish tutorial on CSS and search for final solution to small unresolved issues with the site.
