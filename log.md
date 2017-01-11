@@ -6,7 +6,7 @@ Revisited my tribute page to Antoni Gaudi and moved it to GitHub from CodePen (h
 
 ### Day 2: January 3, 2017
 
-Worked on FCC challenges, refreshing knowledge on HTML and CSS before tackling a revision of my tribute page and the design of my portfolio.
+Worked on FCC (FreeCodeCamp) challenges, refreshing knowledge on HTML and CSS before tackling a revision of my tribute page and the design of my portfolio.
 
 ### Day 3: January 4, 2017
 
@@ -37,4 +37,9 @@ Did some learning today from MDN (Mozilla Developer Network) tutorials on HTML a
 Learned some more CSS from MDN, tried several things to fix my portfolio page without much success for now..
 
 ### Day 10: January 11, 2017
+
+Uploaded to github the latest version of my portfolio. Have worked on it a bit more today and this'll be my last draft version for now. I'll make a pause to resume learning in FCC about JavaScript now so I can move on to other projects. Will be coming back to the portfolio in the future (will also need to add all the images, that for now are only placeholders).
+Overall, this portfolio has proven to be quite a humbling experience, HTML/CSS are not as easy as I first assumed, or perhaps I took an overly complicated route when it could have been simpler from the start, who knows. Will be interesting to see what kind of portfolio I end up having in a couple of months.
+
+### Day 11: January 12, 2017
 
