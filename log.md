@@ -31,3 +31,10 @@ Read a lot today. Articles, tutorials... found a series of exercises to practice
 ### Day 8: January 9, 2017
 
 Did some learning today from MDN (Mozilla Developer Network) tutorials on HTML and CSS. I feel my basis is finally more solid so I'm more confident. Have made some changes to my portfolio page while going through all features and updated the github code. Tomorrow will finish tutorial on CSS and search for final solution to small unresolved issues with the site.
+
+### Day 9: January 10, 2017
+
+Learned some more CSS from MDN, tried several things to fix my portfolio page without much success for now..
+
+### Day 10: January 11, 2017
+
