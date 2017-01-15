@@ -49,3 +49,6 @@ Before diving into the next lessons in FCC (JavaScript), took a break to work wi
 
 In CS212 course, worked on some coding for a poker game.
 
+### Day 13: January 15, 2017
+
+Coding in Python. Discovered and practiced some functions within the itertools module
