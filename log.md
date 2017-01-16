@@ -52,3 +52,7 @@ In CS212 course, worked on some coding for a poker game.
 ### Day 13: January 15, 2017
 
 Coding in Python. Discovered and practiced some functions within the itertools module. Finished lesson 1 in CS212. Also dove into JavaScript: went through several FCC challenges. So far it's pretty similar to Python.
+
+### Day 14: January 16, 2017
+
+Almost finished all basic JavaScript and OOP challenges in FCC (82 in a row! :s) before starting some algorithm scripting, looking forward to actual open exercises. JavaScrcipt is now to me between Python and, more closely, Java. Will it be easy to make small mistakes because of it since my Java is not yet fluent?
