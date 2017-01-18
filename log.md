@@ -56,3 +56,8 @@ Coding in Python. Discovered and practiced some functions within the itertools m
 ### Day 14: January 16, 2017
 
 Almost finished all basic JavaScript and OOP challenges in FCC (82 in a row! :s) before starting some algorithm scripting, looking forward to actual open exercises. JavaScrcipt is now to me between Python and, more closely, Java. Will it be easy to make small mistakes because of it since my Java is not yet fluent?
+
+### Day 15: January 17, 2017
+
+Quickly finished JS/OOP challenges and started the basic algorithms ie short independent exercises to solve on my own. They're quite fun and entertaining. I've seem some of them in the past so the task is more that of remembering and translating, a good exercise in another way.
+
