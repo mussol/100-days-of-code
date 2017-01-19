@@ -61,3 +61,11 @@ Almost finished all basic JavaScript and OOP challenges in FCC (82 in a row! :s)
 
 Quickly finished JS/OOP challenges and started the basic algorithms ie short independent exercises to solve on my own. They're quite fun and entertaining. I've seem some of them in the past so the task is more that of remembering and translating, a good exercise in another way.
 
+### Day 16: January 18, 2017
+
+Did quite some more basic algorithms, some quite tricky. Also visited codewars and practiced some katas in Python.
+
+### Day 17: January 19, 2017
+
+Again some more algorithms. Hoped to finish them all but might leave a couple for tomorrow. Should move on to the CS212 course (self-imposed deadline this sunday!). No extra time today.
+
