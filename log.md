@@ -69,3 +69,6 @@ Did quite some more basic algorithms, some quite tricky. Also visited codewars a
 
 Again some more algorithms. Hoped to finish them all but might leave a couple for tomorrow. Should move on to the CS212 course (self-imposed deadline this sunday!). No extra time today.
 
+### Day 18: January 20, 2017
+
+Intense day today working with Python. Did most of lesson 2 from the CS212 course in Udacity, quite advanced coding so really inspiring, only the problem sets to finish now. Learning a lot from this course, read a bit about idioms and techniques, best practices.
