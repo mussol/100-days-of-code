@@ -72,3 +72,11 @@ Again some more algorithms. Hoped to finish them all but might leave a couple fo
 ### Day 18: January 20, 2017
 
 Intense day today working with Python. Did most of lesson 2 from the CS212 course in Udacity, quite advanced coding so really inspiring, only the problem sets to finish now. Learning a lot from this course, read a bit about idioms and techniques, best practices.
+
+### Day 19: January 21, 2017
+
+Short day: only had time to get my mind blown by the solutions to some problems in CS212 course (I'm definitely not good enough!) and did the challenges for JSON APIs and AJAX.
+
+### Day 20: January 22, 2017
+
+Starting to read about, investigate and set up the Random quote machine project in FCC.
