@@ -80,3 +80,7 @@ Short day: only had time to get my mind blown by the solutions to some problems 
 ### Day 20: January 22, 2017
 
 Starting to read about, investigate and set up the Random quote machine project in FCC.
+
+### Day 21: January 23, 2017
+
+Built a skeleton of my randm quote site and then tried to understand APIs: what are they, how can I find one to use for free and how to make it work (and the extra challeges of codepen). Taking quite some time!
