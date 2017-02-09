@@ -84,3 +84,35 @@ Starting to read about, investigate and set up the Random quote machine project 
 ### Day 21: January 23, 2017
 
 Built a skeleton of my randm quote site and then tried to understand APIs: what are they, how can I find one to use for free and how to make it work (and the extra challeges of codepen). Taking quite some time!
+
+### Day 22: January 24, 2017
+
+Trying to find a way to still use an API for the random quote page.
+
+### Day 23: January 25, 2017
+
+Working on the random quote page. Really getting mad because the FCC lessons didn't explain anything compared to what I'm seeing in other people's codes. Yes, I kind of gave up trying to find out by myself how it works and searched for other random quote sites to see how they're built. I noticed, surprisingly, that most of them (in codepen) don't call an API but hardcoded the quotes in a JS object. Still, difficult to see how I could have coded that with the knowledge I have of JS at this point (from FCC and random search online) - impossible.
+
+### Day 24: February 04, 2017
+
+Yes, I admit I took some days off... The reason is rather silly, but I actually got frustrated with my random quote project. Couldn't make the call to the API work and I still don't know why, so I got frustrated and stopped. Mistake: didn't switch to something else. Today I'm picking up again where I left off (against the rules of the challenge, I'm aware!) with some challenges in FCC. Trying the beta version with renewed curriculum and seems quite more logical, at least for the first part.
+
+### Day 25: February 05, 2017
+
+Started/finished the course on how to build a website from Codecademy. Trying to start again easy after the break so what's better than to consolidate bases?
+
+### Day 26: February 06, 2017
+
+Following the same path as yesterday, started the Codecademy course on HTML/CSS (part I), did 4 units (42%) out of 9. I find that they present concepts in a cleaner way than in FCC - maybe with the new FCC curriculum that will change? The comments seems to point there.
+
+### Day 27: February 07, 2017
+
+Finished course on HTML/CSS from codecademy. Definitely liked the way they organise and present the concepts. The opportunity is there to see the concepts live and play with them while learning. It was a good move that helped me clarify and organise what I knew and also expand some concepts.
+
+### Day 28: February 08 2017
+
+Worked on reformulating the random quote webpage. Started by using a piece of code with the JS call to API found online, which worked where mine didn't. Had spent several days trying to find out how to do but I think at this point it's beyobnd my knowledge (so far only did the challenges on FCC on API and they're way not enough, I have hopes that with the new curriculum that'll improve, or maybe we are not supposed to do very well on this project yet and ressort to hardcoding the quotes). Eitherway, my quotes page is not perfect, but works, so I'll leave it as it is for now.
+
+### Day 29: February 09, 2017
+
+Updating github with changes.
