@@ -115,4 +115,4 @@ Worked on reformulating the random quote webpage. Started by using a piece of co
 
 ### Day 29: February 09, 2017
 
-Updating github with changes.
+Updating github with changes. Resumed FCC challenges: intermediate algorithm scripting.
