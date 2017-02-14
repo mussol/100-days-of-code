@@ -116,3 +116,15 @@ Worked on reformulating the random quote webpage. Started by using a piece of co
 ### Day 29: February 09, 2017
 
 Updating github with changes. Resumed FCC challenges: intermediate algorithm scripting.
+
+### Day 30: February 10-12, 2017
+
+Could not put a decent coding session in during these days, but managed to do alltogether a couple of FCC intermediate algorithms and some reading. With the idea of improving and practicing my javascript skills, I also made the decision to try the #javascript30 course by Wes Bos. Not sure what level it'll have, supposedly intermediate, but not sure I'm there yet. We'll see - signed up and will start tomorrow.
+
+### Day 31: February 13, 2017
+
+Started #javascript30! Mmmm It's definitely beyond my level at this point. However, I like the course, the way it's organised and taught. I am also motivated to improve, so I'll stick to it and follow the course at my own pace. Practice, practice, practice! I think though that I'll need some "lower-level" practice to alternate with (that'll help consolidate bases) so I don't burn out ;)
+
+### Day 32: February 14, 2017
+
+Been mainly looking at javascript resources: followed a short course/tutorial (1.5h) that ended up being too basic for me and started another longer one that is for now a good one: starts with the basics but extends to so much further, allowing me to practice in parallel. Did already some longer coding as exercises that met my daily goal. Will continue with this course in parallel to #javascript30 and FCC.
