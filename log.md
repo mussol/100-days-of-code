@@ -128,3 +128,7 @@ Started #javascript30! Mmmm It's definitely beyond my level at this point. Howev
 ### Day 32: February 14, 2017
 
 Been mainly looking at javascript resources: followed a short course/tutorial (1.5h) that ended up being too basic for me and started another longer one that is for now a good one: starts with the basics but extends to so much further, allowing me to practice in parallel. Did already some longer coding as exercises that met my daily goal. Will continue with this course in parallel to #javascript30 and FCC.
+
+### Day 33: February 15, 2017
+
+Practiced objects and arrays in JS, still within yesterday's course (in Udemy). I confirm it helps improving my knowledge, many small things I didn't realise come into place. Feeling positive.
