@@ -132,3 +132,7 @@ Been mainly looking at javascript resources: followed a short course/tutorial (1
 ### Day 33: February 15, 2017
 
 Practiced objects and arrays in JS, still within yesterday's course (in Udemy). I confirm it helps improving my knowledge, many small things I didn't realise come into place. Feeling positive.
+
+### Day 34: February 20, 2017
+
+After some days without computer and barely 20 minutes on the best of days, I managed to start/complete the JavaScript course on SoloLearn (via ipad). Last module's theory on DOM, event handlers and animations was actually new to me.
