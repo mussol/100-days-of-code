@@ -136,3 +136,7 @@ Practiced objects and arrays in JS, still within yesterday's course (in Udemy). 
 ### Day 34: February 20, 2017
 
 After some days without computer and barely 20 minutes on the best of days, I managed to start/complete the JavaScript course on SoloLearn (via ipad). Last module's theory on DOM, event handlers and animations was actually new to me.
+
+### Day 35: February 21, 2017
+
+JavaScript30 first lesson: drum kit. Implemented step by step the vanilla JS explained during the exercise and later played a bit with the css. I understood much better the JS code now than a few days ago when I attempted it for the first time (yay!). Also learned about template literals, which I'd never used before. All in all a very fruitful day so far. Later read as well about list comprehensions, practiced filter, map and reduce functions.
