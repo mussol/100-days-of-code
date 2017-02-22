@@ -140,3 +140,7 @@ After some days without computer and barely 20 minutes on the best of days, I ma
 ### Day 35: February 21, 2017
 
 JavaScript30 first lesson: drum kit. Implemented step by step the vanilla JS explained during the exercise and later played a bit with the css. I understood much better the JS code now than a few days ago when I attempted it for the first time (yay!). Also learned about template literals, which I'd never used before. All in all a very fruitful day so far. Later read as well about list comprehensions, practiced filter, map and reduce functions.
+
+### Day 36: February 22, 2017
+
+Practiced JS arrays: forEach, slice, filter, concat, indexOf... Cracked a FCC algorithm I'd been stuck with for a while.
