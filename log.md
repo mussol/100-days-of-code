@@ -144,3 +144,7 @@ JavaScript30 first lesson: drum kit. Implemented step by step the vanilla JS exp
 ### Day 36: February 22, 2017
 
 Practiced JS arrays: forEach, slice, filter, concat, indexOf... Cracked a FCC algorithm I'd been stuck with for a while.
+
+### Day 37: February 23, 2017
+
+Went through the Object Oriented Programming section of the JS Udemy course I'm following. It seems rather confusing at first sight - there are quite some differences between JS and say Python, the language I know the best - so I'll be sure to go through it again and practice some more.
