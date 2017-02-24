@@ -148,3 +148,8 @@ Practiced JS arrays: forEach, slice, filter, concat, indexOf... Cracked a FCC al
 ### Day 37: February 23, 2017
 
 Went through the Object Oriented Programming section of the JS Udemy course I'm following. It seems rather confusing at first sight - there are quite some differences between JS and say Python, the language I know the best - so I'll be sure to go through it again and practice some more.
+
+### Day 38: February 24, 2017
+
+Practiced some more. JS exercises from the Udemy course, section on OOP. Rechecked the lessons.
+
