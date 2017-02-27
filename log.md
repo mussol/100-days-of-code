@@ -153,3 +153,7 @@ Went through the Object Oriented Programming section of the JS Udemy course I'm 
 
 Practiced some more. JS exercises from the Udemy course, section on OOP. Rechecked the lessons.
 
+### Day 39: February 28, 2017
+
+After a pause because of, well, family life, I came back to doing a couple of freecodecamp (FCC) algorithms. More challenging than I thought, I'll admit, and I'm not sure my solutions are the most efficient but they work nicely. Should check out the FCC wiki as well.
+
