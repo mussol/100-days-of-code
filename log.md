@@ -160,3 +160,7 @@ After a pause because of, well, family life, I came back to doing a couple of fr
 ### Day 40: February 28, 2017
 
 Went back to the Udemy course on JS and now only some final exercises left to finish. Last part was interesting: included the DOM, browser events, event objects, how browsers work, an intro to AJAX, error handling and debugging. This course gave me a pretty solid base on JS, not bad at all.
+
+### Day 41: March 01, 2017
+
+Started with the course-end exercises from the Udemy JS course. I never imagined it would be difficult to apply the latest concepts into actual code (I was building a simple slideshow), but I was wrong! Got stuck with a couple things but I'm actually glad about that and the fact that with practice I'll get better and better. Feeling positive. 
