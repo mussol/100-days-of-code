@@ -164,3 +164,11 @@ Went back to the Udemy course on JS and now only some final exercises left to fi
 ### Day 41: March 01, 2017
 
 Started with the course-end exercises from the Udemy JS course. I never imagined it would be difficult to apply the latest concepts into actual code (I was building a simple slideshow), but I was wrong! Got stuck with a couple things but I'm actually glad about that and the fact that with practice I'll get better and better. Feeling positive. 
+
+### Day 42: March 14, 2017
+
+So after several days of no actual coding (only reading) I'm jumping back in. Joined a javascript mini bootcamp organised by LambdaSchool for that. First day today, was pretty basic but a warming up for me at this point nonetheless.
+
+### Day 43: March 15, 2017
+
+Day 2 of the JS mini bootcamp. For loops, arrays... I'd also done it all, but they did go over git/github as well, which was useful. Practiced some more.
