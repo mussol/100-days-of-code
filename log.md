@@ -172,3 +172,7 @@ So after several days of no actual coding (only reading) I'm jumping back in. Jo
 ### Day 43: March 15, 2017
 
 Day 2 of the JS mini bootcamp. For loops, arrays... I'd also done it all, but they did go over git/github as well, which was useful. Practiced some more.
+
+### Day 44: March 16, 2017
+
+Day 3 of the JS mini bootcamp. Creating and manipulating objects, great practice with the exercises!
