@@ -176,3 +176,7 @@ Day 2 of the JS mini bootcamp. For loops, arrays... I'd also done it all, but th
 ### Day 44: March 16, 2017
 
 Day 3 of the JS mini bootcamp. Creating and manipulating objects, great practice with the exercises!
+
+### Day 45: March 17, 2017
+
+Day 4 & final of the JS mini bootcamp. Advanced JS including callback functions, constructors, prototype, closures, recursion. Great practice, learned a lot! Wish there were more of today's exercises.
