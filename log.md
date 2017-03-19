@@ -180,3 +180,11 @@ Day 3 of the JS mini bootcamp. Creating and manipulating objects, great practice
 ### Day 45: March 17, 2017
 
 Day 4 & final of the JS mini bootcamp. Advanced JS including callback functions, constructors, prototype, closures, recursion. Great practice, learned a lot! Wish there were more of today's exercises.
+
+### Day 46: March 18, 2017
+
+Started a promissing course on watchandcode.com titled practical javascript. Starting off good! Although it only covered topics I already knew so far, the instructor has a very interesting way to teach, from an example, that makes it all so much more intuitive. I find it completes/clarifies my understanding of the concept nicely.
+
+### Day 47: March 19, 2017
+
+Second day of practical javascript course. Could not dedicate much time to it today but we're reaching the advanced topics so I'm eager.
