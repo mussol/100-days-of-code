@@ -188,3 +188,7 @@ Started a promissing course on watchandcode.com titled practical javascript. Sta
 ### Day 47: March 19, 2017
 
 Second day of practical javascript course. Could not dedicate much time to it today but we're reaching the advanced topics so I'm eager.
+
+### Day 48: March 20, 2017
+
+Finished the practical javascript course of watchandcode.com. It is definitely one of the best (if not the best) free courses I've done so far on JavaScript. I enjoyed it very much and learned a lot too. Must keep the momentum!
