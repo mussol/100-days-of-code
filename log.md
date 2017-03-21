@@ -192,3 +192,7 @@ Second day of practical javascript course. Could not dedicate much time to it to
 ### Day 48: March 20, 2017
 
 Finished the practical javascript course of watchandcode.com. It is definitely one of the best (if not the best) free courses I've done so far on JavaScript. I enjoyed it very much and learned a lot too. Must keep the momentum!
+
+### Day 49: March 21, 2017
+
+Used some time to plan the next steps in self-learning. Dove once again into javascript30, will try to go through 2 or 3 and see if a detour is still needed. Today re-visited the drum kit and the CSS + JS clock and went through JS cardio 1. Reeeally fast pace, not sure these videos are helping me more than they're making me anxious.
