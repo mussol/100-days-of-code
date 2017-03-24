@@ -196,3 +196,7 @@ Finished the practical javascript course of watchandcode.com. It is definitely o
 ### Day 49: March 21, 2017
 
 Used some time to plan the next steps in self-learning. Dove once again into javascript30, will try to go through 2 or 3 and see if a detour is still needed. Today re-visited the drum kit and the CSS + JS clock and went through JS cardio 1. Reeeally fast pace, not sure these videos are helping me more than they're making me anxious.
+
+### Day 50: March 23, 2017
+
+Diving into the You Don't Know JavaScript books. Coming from my search for guidance in my self-learning adventure: thinking of following this learning path https://goo.gl/48pluH or/and maybe this other longer one https://goo.gl/O70niK 
