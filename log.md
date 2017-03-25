@@ -200,3 +200,11 @@ Used some time to plan the next steps in self-learning. Dove once again into jav
 ### Day 50: March 23, 2017
 
 Diving into the You Don't Know JavaScript books. Coming from my search for guidance in my self-learning adventure: thinking of following this learning path https://goo.gl/48pluH or/and maybe this other longer one https://goo.gl/O70niK 
+
+### Day 51: March 24, 2017
+
+YDKJS books: finished 1 Up & Going
+
+### Day 52: March 25, 2017
+
+YDKJS books: on 2: scope & closures
