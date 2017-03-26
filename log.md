@@ -208,3 +208,7 @@ YDKJS books: finished 1 Up & Going
 ### Day 52: March 25, 2017
 
 YDKJS books: on 2: scope & closures
+
+### Day 53: March 26, 2017
+
+Read a bit of YDKJS book scope & closures. Then did a (very big) jump to CS50: started lesson 0... the way the class is delivered is so grand I feel like I took a flight to the States. Towards the end it gets better, nice idea for an introduction to programming that of playing with Scratch. Overall though the course's difficulty level does seem to increase pretty quickly - let's see!
