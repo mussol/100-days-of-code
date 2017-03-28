@@ -212,3 +212,11 @@ YDKJS books: on 2: scope & closures
 ### Day 53: March 26, 2017
 
 Read a bit of YDKJS book scope & closures. Then did a (very big) jump to CS50: started lesson 0... the way the class is delivered is so grand I feel like I took a flight to the States. Towards the end it gets better, nice idea for an introduction to programming that of playing with Scratch. Overall though the course's difficulty level does seem to increase pretty quickly - let's see!
+
+### Day 54: March 27, 2017
+
+Spent most of the coding time in Scratch, building a project for CS50. It's quite entertaiting I must admit, although it does eat a lot of your time if you're not careful! (My advice would be to have a solid idea of what you'll be building, maybe even a sketch or notes in paper, so that you stay focused and don't end up investigating 10 different options before deciding what to build).
+
+### Day 55: March 28, 2017
+
+Finalised and submitted the CS50 Scratch project. Revisited and uploaded some code done for a todo app in Github. 
