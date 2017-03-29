@@ -219,4 +219,8 @@ Spent most of the coding time in Scratch, building a project for CS50. It's quit
 
 ### Day 55: March 28, 2017
 
-Finalised and submitted the CS50 Scratch project. Revisited and uploaded some code done for a todo app in Github. 
+Finalised and submitted the CS50 Scratch project. Revisited and uploaded some code done for a todo app in Github. Before bed ended up reading some more chapters of YDKJS.
+
+### Day 56: March 29, 2017
+
+Very little time today and had to submit a problem set for the 6.00.2x MIT edX class on Python (my second running of the course). It's been several weeks I don't code/read Python and haven't been working on advanced algorithms either, so it took some effort. It's rather scary to see how quickly you can be out of practice...
