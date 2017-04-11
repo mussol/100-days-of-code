@@ -224,3 +224,13 @@ Finalised and submitted the CS50 Scratch project. Revisited and uploaded some co
 ### Day 56: March 29, 2017
 
 Very little time today and had to submit a problem set for the 6.00.2x MIT edX class on Python (my second running of the course). It's been several weeks I don't code/read Python and haven't been working on advanced algorithms either, so it took some effort. It's rather scary to see how quickly you can be out of practice...
+
+### Day 57: March 31, 2017
+
+I did some reading yesterday as well as obsessing over the CS50x puzzles (Puzzle Day 2017 event), so I didn't count the day as a coding day for this challenge.
+Today I finished the book Scope & Closures from the YDKJS series. There're a couple of concepts that I'll need some more studying for, but otherwise I'm happy with the pace of the book and I can follow well. A bit of practice is lacking, to my mind, but for now I want to go through them once first. The two concepts that were more difficult for me to grasp were: a) the lexical-this behaviour, via arrow functions or via the bind() method (both of which I hadn't yet seen or practiced before), and b) modules and closures. I'll need to re-read about that.
+
+### Day 58: April 11, 2017
+
+To sum up the last few days: the puzzle day went by and got to solve 2 of the 8 puzzles (yay me!...), read a bit more, mostly articles and blogs, and also decided to concentrate on web development for now, so I put on hold a couple courses (python and java) I had going on at the same time and signed up to a bootcamp I read good things about (tackles front-end, back-end and databases, in Udemy).
+So a couple days ago I already started this course, even if I'm only counting days from today on for the #100DaysOfCode challenge (the beginning covered only basics and not much coding). Today finished sections 3/4 for html with several coding exercises.
