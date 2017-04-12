@@ -234,3 +234,8 @@ Today I finished the book Scope & Closures from the YDKJS series. There're a cou
 
 To sum up the last few days: the puzzle day went by and got to solve 2 of the 8 puzzles (yay me!...), read a bit more, mostly articles and blogs, and also decided to concentrate on web development for now, so I put on hold a couple courses (python and java) I had going on at the same time and signed up to a bootcamp I read good things about (tackles front-end, back-end and databases, in Udemy).
 So a couple days ago I already started this course, even if I'm only counting days from today on for the #100DaysOfCode challenge (the beginning covered only basics and not much coding). Today finished sections 3/4 for html with several coding exercises.
+
+
+### Day 59: April 12, 2017
+
+Tackled another two sections of the bootcamp, this time for css. Practiced with selectors, built a basic tic tac toe board and a basic photo blog grid. Final project on this section to be built tomorrow.
