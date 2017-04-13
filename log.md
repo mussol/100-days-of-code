@@ -239,3 +239,7 @@ So a couple days ago I already started this course, even if I'm only counting da
 ### Day 59: April 12, 2017
 
 Tackled another two sections of the bootcamp, this time for css. Practiced with selectors, built a basic tic tac toe board and a basic photo blog grid. Final project on this section to be built tomorrow.
+
+### Day 60: April 13, 2017
+
+Finished the bootcamp section on CSS by building a blog from scratch. Only html and css for now, but I'm quite happy with the result.
