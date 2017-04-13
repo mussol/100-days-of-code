@@ -242,4 +242,4 @@ Tackled another two sections of the bootcamp, this time for css. Practiced with 
 
 ### Day 60: April 13, 2017
 
-Finished the bootcamp section on CSS by building a blog from scratch. Only html and css for now, but I'm quite happy with the result.
+Finished the bootcamp section on CSS by building a blog from scratch. Only html and css for now, but I'm quite happy with the result. I also refactored the random quote machine project, so far html/css, following what I've been practicing these last days.
