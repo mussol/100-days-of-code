@@ -243,3 +243,8 @@ Tackled another two sections of the bootcamp, this time for css. Practiced with 
 ### Day 60: April 13, 2017
 
 Finished the bootcamp section on CSS by building a blog from scratch. Only html and css for now, but I'm quite happy with the result. I also refactored the random quote machine project, so far html/css, following what I've been practicing these last days.
+
+### Day 61: April 14, 2017
+
+Did a bit of reading (notably CSS selectors and their efficiency https://goo.gl/cCKeXL), watched some videos, started the bootcamp's section on bootstrap and applied some of those features to refactor my portfolio page.
+I'm wondering if it's actually a good idea (for newbies like me) to mix bootstrap with plain css at this stage? First time I learned CSS/bootstrap I certainly did find it confusing.
