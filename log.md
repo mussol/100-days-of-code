@@ -248,3 +248,27 @@ Finished the bootcamp section on CSS by building a blog from scratch. Only html 
 
 Did a bit of reading (notably CSS selectors and their efficiency https://goo.gl/cCKeXL), watched some videos, started the bootcamp's section on bootstrap and applied some of those features to refactor my portfolio page.
 I'm wondering if it's actually a good idea (for newbies like me) to mix bootstrap with plain css at this stage? First time I learned CSS/bootstrap I certainly did find it confusing.
+
+### Day 62: May 15, 2017
+
+Yes, a month passed! I should be counting this as day 1 all over again, but I'm not sure I'd be motivated enough to continue the challenge. I plan on continuing learning for a long while still though. Today I came back to the web dev bootcamp in Udemy (Steele) to finish the bootstrap lesson I left in the middle of. Practiced creating a couple simple sites (code along style) which I pushed to github.
+
+### Day 63: May 16, 2017
+
+Starting JavaScript on the bootcamp. Went through most basics today (4 units), mostly as a reminder and practice so fast-forwarded a bit. Looking forward to all the units still ahead!
+
+### Day 64: May 17, 2017
+
+Continued work with the bootcamp, on to JS objects.
+
+### Day 65: May 18, 2017
+
+Continued work with the bootcamp, started DOM manipulation. Liked the teaching, concepts seem very clear to me so far.
+
+### Day 66: May 19, 2017
+
+Worked on a color guessing game which, for the first time, mixes a fairly good level of HTML, CSS and JS in the same project. A bit intimidating at the beginning but it's so interesting to see how the teach codes piece by piece. I've tried to come up with ways to solve most features by myself before actually watching how the teach did it, and I'm excited to see I was not too far off sometimes.
+
+### Day 67: May 20, 2017
+
+Finished the color game. I'm thrilled, even if after all it was a code-along. The key: small steps, one feature at a time.
