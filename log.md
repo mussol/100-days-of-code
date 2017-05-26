@@ -272,3 +272,27 @@ Worked on a color guessing game which, for the first time, mixes a fairly good l
 ### Day 67: May 20, 2017
 
 Finished the color game. I'm thrilled, even if after all it was a code-along. The key: small steps, one feature at a time.
+
+### Day 68: May 21, 2017
+
+Had very few time but still read some articles online.
+
+### Day 69: May 22, 2017
+
+Spent this one day (some 6 hours?) cloning a webpage from scratch using bootstrap. It's a rather simple blog type page with a navigation bar, text, image and header. This challenge came from homework day 2 of lambda school's mini bootcamp on basic html/css/js currently ongoing. A good exercise for practice, despite its aparent simplicity not all features were that easy for me yet...
+
+### Day 70: May 23, 2017
+
+Learning jQuery. Very good explanation from Colt (Udemy's bootcamp), particularly about the differences between jQuery and plain JS as well as the whys of using one or the other. Highly recommend it. Did some coding practice along with the class.
+
+### Day 71: May 24, 2017
+
+Finished the todo list page (code along with the bootcamp). Made a point to try to code each of the features before watching the teacher's explanations and some wored very well. Good exercise. We used jQuery, html and css. Also started the YDKJS book on 'this' and prototypes.
+
+### Day 72: May 25, 2017
+
+Back to reading a bit of YDKJS.
+
+### Day 73: May 26, 2017
+
+Worked on refactoring my simple random quotes app. I lack design ideas! Need to finish the tweet button which for now doesn't work properly.
