@@ -296,3 +296,11 @@ Back to reading a bit of YDKJS.
 ### Day 73: May 26, 2017
 
 Worked on refactoring my simple random quotes app. I lack design ideas! Need to finish the tweet button which for now doesn't work properly.
+
+### Day 74: May 27, 2017
+
+Left the random quotes app aside for now, lining up new steps/projects. Some reading.
+
+### Day 75: June 2, 2017
+
+Created a simple version of the animation game at http://www.patatap.com/ using paper.js and howler.js to create the shapes, sounds and animations.
