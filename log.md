@@ -304,3 +304,7 @@ Left the random quotes app aside for now, lining up new steps/projects. Some rea
 ### Day 75: June 2, 2017
 
 Created a simple version of the animation game at http://www.patatap.com/ using paper.js and howler.js to create the shapes, sounds and animations.
+
+### Day 76: June 3-4, 2017
+
+Counting both days as one, since the first was maybe only an hour worth of work. Started with backend, intro to the concepts, http requests, a reminder of the CLI commands, node.js and npm, installed my first packages and tried a few things, set up a cloud 9 account to start with (pretty great!). Tomorrow more! 
