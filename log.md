@@ -312,3 +312,15 @@ Counting both days as one, since the first was maybe only an hour worth of work.
 ### Day 77: June 5, 2017
 
 Learned about express.js and created my very first express app! Pretty excited so far with the possibilities.
+
+### Day 78: June 7, 2017
+
+Getting ready for the chingu cohorts starting this weekend. Yay!!
+
+### Day 79: June 9, 2017
+
+Worked on refactoring my very first page, a tribute page built last January. It's quite interesting to see some of my very obviously messy code. Also spent some time with the cohort group, introductions are so interesting, so many different people put together. It's promissing!
+
+### Day 80: June 10, 2017
+
+Went through the webdev bootcamp's lectures. Practiced with express and starting learning about APIs.
