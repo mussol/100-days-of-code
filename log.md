@@ -324,3 +324,11 @@ Worked on refactoring my very first page, a tribute page built last January. It'
 ### Day 80: June 10, 2017
 
 Went through the webdev bootcamp's lectures. Practiced with express and starting learning about APIs.
+
+### Day 81: June 11, 2017
+
+Went through the APIs lesson in the webdev bootcamp. Helpful, although the API the instructor used seemed quite simple. Later researched about APIs and more concretely about how to include their use in my random quote project. I'm stuck! Tried a few things but I can't seem to make it work. Perhaps I am choosing the wrong API, because what I tried to do is avoid using jQuery - is that even possible?
+
+### Day 82: June 12, 2017
+
+Started the final project (YelpCamp) in Udemy's WebDev bootcamp. Set up the app, installed packages, set up templates and partials and used bootstrap to style most of the templates. There're still so many other lessons working on this project... I'm looking forward to see what we do! Next: learning about databases. Apart from that, I also watched a couple of conferences on webdev topics online.
