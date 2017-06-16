@@ -332,3 +332,15 @@ Went through the APIs lesson in the webdev bootcamp. Helpful, although the API t
 ### Day 82: June 12, 2017
 
 Started the final project (YelpCamp) in Udemy's WebDev bootcamp. Set up the app, installed packages, set up templates and partials and used bootstrap to style most of the templates. There're still so many other lessons working on this project... I'm looking forward to see what we do! Next: learning about databases. Apart from that, I also watched a couple of conferences on webdev topics online.
+
+### Day 83: June 14, 2017
+
+Started learning about databases in the web dev bootcamp. Code-along type of lessons, a lot of new concepts, difficult, but very interesting. Installed and practiced with MongoDB and learned about Mongoose.
+
+### Day 84: June 15, 2017
+
+Started again book 1 of YDKJS: Up & Going, as part of a challenge with the chingu cohort. After discussion about how to go about this challenge, we decided to read book 1 by Saturday and do a coding session together. Also found out about a technique for memorization with a software called Anki (flashcards type). 
+
+### Day 85: June 16, 2017
+
+Finished reading YDKJS book 1 and creating my Anki cards for revision. Will probably be most useful for me than the group. Started a new challenge with the cohort: one kata a day (CodeWars) - solved the first one.
