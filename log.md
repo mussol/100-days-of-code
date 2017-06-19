@@ -343,4 +343,12 @@ Started again book 1 of YDKJS: Up & Going, as part of a challenge with the ching
 
 ### Day 85: June 16, 2017
 
-Finished reading YDKJS book 1 and creating my Anki cards for revision. Will probably be most useful for me than the group. Started a new challenge with the cohort: one kata a day (CodeWars) - solved the first one.
+Finished reading YDKJS book 1 and creating my Anki cards for revision. Will probably be most useful for me than the group, specially since some of them are not very well built (too much info, long, words are not optimized...). Started a new challenge with the cohort: one kata a day (CodeWars) - solved the first one.
+
+### Day 86: June 17, 2017
+
+Did some more web dev bootcamp lessons and started creating a RESTful blog app.
+
+### Day 87: June 19, 2017
+
+Finished the creation of a RESTful blog app with web dev bootcamp. Very good exercise, liked it. I plan on building another restful app myself, must find topic.
