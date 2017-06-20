@@ -352,3 +352,7 @@ Did some more web dev bootcamp lessons and started creating a RESTful blog app.
 ### Day 87: June 19, 2017
 
 Finished the creation of a RESTful blog app with web dev bootcamp. Very good exercise, liked it. I plan on building another restful app myself, must find topic.
+
+### Day 88: June 20, 2017
+
+Transfered some of the code written in cloud9 to my repo in github. Also learned about and setup of a .gitignore file for all files related to cloud9, sublime, node and macos. Continued some work on the random quote project, calling an API (node.js) instead of hard-coding an array of quotes. The only functionality missing (in both versions) is the twitter button, which once clicked should pre-populate the tweet with the quote and author.
