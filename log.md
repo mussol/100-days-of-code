@@ -356,3 +356,7 @@ Finished the creation of a RESTful blog app with web dev bootcamp. Very good exe
 ### Day 88: June 20, 2017
 
 Transfered some of the code written in cloud9 to my repo in github. Also learned about and setup of a .gitignore file for all files related to cloud9, sublime, node and macos. Continued some work on the random quote project, calling an API (node.js) instead of hard-coding an array of quotes. The only functionality missing (in both versions) is the twitter button, which once clicked should pre-populate the tweet with the quote and author.
+
+### Day 89: June 21, 2017
+
+Created a command line weather app with Node.js. Makes an API call based on city name. Came upon a tutorial article in Medium that explained how to, and I realised that I understood everything easily, I had already seen all tools used, so I was happy. I hope to be able to extend this app that now works on the CLI only and create a website to display data as well as using my IP address to detect ubication. Worked a few hours on that already today.
