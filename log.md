@@ -360,3 +360,7 @@ Transfered some of the code written in cloud9 to my repo in github. Also learned
 ### Day 89: June 21, 2017
 
 Created a command line weather app with Node.js. Makes an API call based on city name. Came upon a tutorial article in Medium that explained how to, and I realised that I understood everything easily, I had already seen all tools used, so I was happy. I hope to be able to extend this app that now works on the CLI only and create a website to display data as well as using my IP address to detect ubication. Worked a few hours on that already today.
+
+### Day 90: June 22 + 23, 2017
+
+Solved a kata from codewars on the 22nd and another one on hackerrank on the 23d. Took me a while to solve the second... should have learned better my modular arithmetics O_o'
