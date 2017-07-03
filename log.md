@@ -364,3 +364,32 @@ Created a command line weather app with Node.js. Makes an API call based on city
 ### Day 90: June 22 + 23, 2017
 
 Solved a kata from codewars on the 22nd and another one on hackerrank on the 23d. Took me a while to solve the second... should have learned better my modular arithmetics O_o'
+
+### Day 91: June 24 + 25, 2017
+
+Very little time on 24th, used to do another section of the bootcamp re associations in databases and module exports. On 25th worked a while on the weather app.
+
+### Day 92: June 26, 2017
+
+Worked on my weather app. I'm so blocked! I'm stuck with the problem of asyncronity (is that how it's written?!?) of the API calls.
+
+### Day 93: June 27, 2017
+
+Fixed functionality of the weather app! Calls to both APIs work. All styling still to do...
+
+### Day 94: June 30, 2017
+
+solved an algorithm in FCC for dolphin's challenge channel (Spinal Tap Case). Forced me to do a crash course in Regex so dedicated my day to that. Found P1xt's guide and started it. Also reading YDKJS Types & Grammar
+
+### Day 95: July 1, 2017
+
+Reading YDKJS Types & Grammar
+
+### Day 96: July 2, 2017
+
+Algorithms day: solved 5 in FCC (intermediate), a couple in exercism (did also the setup) and 4 more in hackerrank. There was one in FCC (Roman Numeral Converter) that I really couldn't solve and had to check the solution. Still took me a moment to understand afterwards :S
+
+### Day 97: July 3, 2017
+
+Worked on and finished styling my weather app (used semantic ui for the first time). Still missing: the ability to switch from celsius to fahrenheit and it'd be nice to have the background colour or image change depending on the day/night or, even better, the actual weather.
+
