@@ -393,3 +393,6 @@ Algorithms day: solved 5 in FCC (intermediate), a couple in exercism (did also t
 
 Worked on and finished styling my weather app (used semantic ui for the first time). Still missing: the ability to switch from celsius to fahrenheit and it'd be nice to have the background colour or image change depending on the day/night or, even better, the actual weather.
 
+### Day 98: July 4, 2017
+
+Finished reading book 4 YDKJS Types & Grammar.
