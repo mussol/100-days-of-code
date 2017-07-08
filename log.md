@@ -396,3 +396,17 @@ Worked on and finished styling my weather app (used semantic ui for the first ti
 ### Day 98: July 4, 2017
 
 Finished reading book 4 YDKJS Types & Grammar.
+
+### Day 99: July 7, 2017
+
+Carried on with the bootcamp course on Udemy by Colt. Learned about nested routing and authentications, ready to implement the authentication in our final app, yelpcamp.
+
+### Day 100: July 8, 2017
+
+Some algorithms from hackerrank, exercism and freecodecamp. In retrospect, it's a rather disappointing ending to the #100DaysOfCode challenge!! Although, in my defense, I hadn't realised it was D day until I wrote this log... :P
+
+
+###FINAL THOUGHTS
+
+I am proud of my accomplishments in the last 100 days. I didn't follow the rules strictly: I skipped one/some days from time to time. During these days off, I often still listened to podcasts or read articles, maybe I even solved some short algorithms, but some other times I did nothing related to code that day. And that was fine for me, life happens, specially with a family in charge, so I didn't beat myself up for it. What helped me was to continue this challenge despite those days off, so that little by little the goal was closer.
+Along this challenge, I've taken on other projects, other engagements, I am still motivated and I don't intend to stop my learning here. I am just getting started.
